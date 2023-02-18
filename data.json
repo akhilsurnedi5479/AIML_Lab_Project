@@ -1,0 +1,1368 @@
+{
+    "success": true,
+    "data": {
+        "buckets": [
+            {
+                "id": "Best",
+                "name": "Best",
+                "items": [
+                    {
+                        "id": "13870-2302281500--32680-0-11493-2302281725",
+                        "price": {
+                            "raw": 44.77,
+                            "formatted": "45 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302281500--32680-0-11493-2302281725",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 145,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T15:00:00",
+                                "arrival": "2023-02-28T17:25:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -32680,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                            "name": "Air Europa"
+                                        }
+                                    ],
+                                    "operationType": "fully_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302281500-2302281725--32680",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T15:00:00",
+                                        "arrival": "2023-02-28T17:25:00",
+                                        "durationInMinutes": 145,
+                                        "flightNumber": "1047",
+                                        "marketingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "eco": {
+                            "ecoContenderDelta": 13.192665
+                        },
+                        "tags": [
+                            "second_cheapest",
+                            "shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 0.930087,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 44.77,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302281500--32680-0-11493-2302281725?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    },
+                    {
+                        "id": "13870-2302280705--32680-0-11493-2302280930",
+                        "price": {
+                            "raw": 44.77,
+                            "formatted": "45 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302280705--32680-0-11493-2302280930",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 145,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T07:05:00",
+                                "arrival": "2023-02-28T09:30:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -32680,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                            "name": "Air Europa"
+                                        }
+                                    ],
+                                    "operationType": "fully_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302280705-2302280930--32680",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T07:05:00",
+                                        "arrival": "2023-02-28T09:30:00",
+                                        "durationInMinutes": 145,
+                                        "flightNumber": "1043",
+                                        "marketingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "tags": [
+                            "second_cheapest",
+                            "shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 0.930087,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 44.77,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302280705--32680-0-11493-2302280930?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    },
+                    {
+                        "id": "13870-2302280950--31669-0-11493-2302281220",
+                        "price": {
+                            "raw": 43.83,
+                            "formatted": "44 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302280950--31669-0-11493-2302281220",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 150,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T09:50:00",
+                                "arrival": "2023-02-28T12:20:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -31669,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/WZ.png",
+                                            "name": "Wizz Air"
+                                        }
+                                    ],
+                                    "operating": [
+                                        {
+                                            "id": -30596,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
+                                            "name": "Wizz Air Malta"
+                                        }
+                                    ],
+                                    "operationType": "not_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302280950-2302281220--31669",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T09:50:00",
+                                        "arrival": "2023-02-28T12:20:00",
+                                        "durationInMinutes": 150,
+                                        "flightNumber": "8334",
+                                        "marketingCarrier": {
+                                            "id": -31669,
+                                            "name": "Wizz Air",
+                                            "alternateId": "WZ",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -30596,
+                                            "name": "Wizz Air Malta",
+                                            "alternateId": "I*",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "eco": {
+                            "ecoContenderDelta": 20.129894
+                        },
+                        "tags": [
+                            "cheapest",
+                            "second_shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 0.918275,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 43.83,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302280950--31669-0-11493-2302281220?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    }
+                ]
+            },
+            {
+                "id": "Cheapest",
+                "name": "Cheapest",
+                "items": [
+                    {
+                        "id": "13870-2302280950--31669-0-11493-2302281220",
+                        "price": {
+                            "raw": 43.83,
+                            "formatted": "44 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302280950--31669-0-11493-2302281220",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 150,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T09:50:00",
+                                "arrival": "2023-02-28T12:20:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -31669,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/WZ.png",
+                                            "name": "Wizz Air"
+                                        }
+                                    ],
+                                    "operating": [
+                                        {
+                                            "id": -30596,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
+                                            "name": "Wizz Air Malta"
+                                        }
+                                    ],
+                                    "operationType": "not_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302280950-2302281220--31669",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T09:50:00",
+                                        "arrival": "2023-02-28T12:20:00",
+                                        "durationInMinutes": 150,
+                                        "flightNumber": "8334",
+                                        "marketingCarrier": {
+                                            "id": -31669,
+                                            "name": "Wizz Air",
+                                            "alternateId": "WZ",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -30596,
+                                            "name": "Wizz Air Malta",
+                                            "alternateId": "I*",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "eco": {
+                            "ecoContenderDelta": 20.129894
+                        },
+                        "tags": [
+                            "cheapest",
+                            "second_shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 1,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 43.83,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302280950--31669-0-11493-2302281220?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    },
+                    {
+                        "id": "13870-2302281500--32680-0-11493-2302281725",
+                        "price": {
+                            "raw": 44.77,
+                            "formatted": "45 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302281500--32680-0-11493-2302281725",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 145,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T15:00:00",
+                                "arrival": "2023-02-28T17:25:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -32680,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                            "name": "Air Europa"
+                                        }
+                                    ],
+                                    "operationType": "fully_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302281500-2302281725--32680",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T15:00:00",
+                                        "arrival": "2023-02-28T17:25:00",
+                                        "durationInMinutes": 145,
+                                        "flightNumber": "1047",
+                                        "marketingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "eco": {
+                            "ecoContenderDelta": 13.192665
+                        },
+                        "tags": [
+                            "second_cheapest",
+                            "shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 0.9842888,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 44.77,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302281500--32680-0-11493-2302281725?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    },
+                    {
+                        "id": "13870-2302280705--32680-0-11493-2302280930",
+                        "price": {
+                            "raw": 44.77,
+                            "formatted": "45 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302280705--32680-0-11493-2302280930",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 145,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T07:05:00",
+                                "arrival": "2023-02-28T09:30:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -32680,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                            "name": "Air Europa"
+                                        }
+                                    ],
+                                    "operationType": "fully_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302280705-2302280930--32680",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T07:05:00",
+                                        "arrival": "2023-02-28T09:30:00",
+                                        "durationInMinutes": 145,
+                                        "flightNumber": "1043",
+                                        "marketingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "tags": [
+                            "second_cheapest",
+                            "shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 0.9842888,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 44.77,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302280705--32680-0-11493-2302280930?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    }
+                ]
+            },
+            {
+                "id": "Fastest",
+                "name": "Fastest",
+                "items": [
+                    {
+                        "id": "13870-2302281500--32680-0-11493-2302281725",
+                        "price": {
+                            "raw": 44.77,
+                            "formatted": "45 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302281500--32680-0-11493-2302281725",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 145,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T15:00:00",
+                                "arrival": "2023-02-28T17:25:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -32680,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                            "name": "Air Europa"
+                                        }
+                                    ],
+                                    "operationType": "fully_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302281500-2302281725--32680",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T15:00:00",
+                                        "arrival": "2023-02-28T17:25:00",
+                                        "durationInMinutes": 145,
+                                        "flightNumber": "1047",
+                                        "marketingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "eco": {
+                            "ecoContenderDelta": 13.192665
+                        },
+                        "tags": [
+                            "second_cheapest",
+                            "shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 1,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 44.77,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302281500--32680-0-11493-2302281725?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    },
+                    {
+                        "id": "13870-2302280705--32680-0-11493-2302280930",
+                        "price": {
+                            "raw": 44.77,
+                            "formatted": "45 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302280705--32680-0-11493-2302280930",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 145,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T07:05:00",
+                                "arrival": "2023-02-28T09:30:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -32680,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                            "name": "Air Europa"
+                                        }
+                                    ],
+                                    "operationType": "fully_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302280705-2302280930--32680",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T07:05:00",
+                                        "arrival": "2023-02-28T09:30:00",
+                                        "durationInMinutes": 145,
+                                        "flightNumber": "1043",
+                                        "marketingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "tags": [
+                            "second_cheapest",
+                            "shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 1,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 44.77,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302280705--32680-0-11493-2302280930?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    },
+                    {
+                        "id": "13870-2302280840--32222-0-11493-2302281110",
+                        "price": {
+                            "raw": 103.66,
+                            "formatted": "104 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302280840--32222-0-11493-2302281110",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 150,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T08:40:00",
+                                "arrival": "2023-02-28T11:10:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -32222,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/IB.png",
+                                            "name": "Iberia"
+                                        }
+                                    ],
+                                    "operationType": "fully_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302280840-2302281110--32222",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T08:40:00",
+                                        "arrival": "2023-02-28T11:10:00",
+                                        "durationInMinutes": 150,
+                                        "flightNumber": "3230",
+                                        "marketingCarrier": {
+                                            "id": -32222,
+                                            "name": "Iberia",
+                                            "alternateId": "IB",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -32222,
+                                            "name": "Iberia",
+                                            "alternateId": "IB",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "tags": [
+                            "second_shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 0.9473684,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "xpuk"
+                                ],
+                                "amount": 103.66,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302280840--32222-0-11493-2302281110?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    }
+                ]
+            },
+            {
+                "id": "Direct",
+                "name": "Direct",
+                "items": [
+                    {
+                        "id": "13870-2302281500--32680-0-11493-2302281725",
+                        "price": {
+                            "raw": 44.77,
+                            "formatted": "45 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302281500--32680-0-11493-2302281725",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 145,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T15:00:00",
+                                "arrival": "2023-02-28T17:25:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -32680,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                            "name": "Air Europa"
+                                        }
+                                    ],
+                                    "operationType": "fully_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302281500-2302281725--32680",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T15:00:00",
+                                        "arrival": "2023-02-28T17:25:00",
+                                        "durationInMinutes": 145,
+                                        "flightNumber": "1047",
+                                        "marketingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "eco": {
+                            "ecoContenderDelta": 13.192665
+                        },
+                        "tags": [
+                            "second_cheapest",
+                            "shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 0.930087,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 44.77,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302281500--32680-0-11493-2302281725?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    },
+                    {
+                        "id": "13870-2302280705--32680-0-11493-2302280930",
+                        "price": {
+                            "raw": 44.77,
+                            "formatted": "45 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302280705--32680-0-11493-2302280930",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 145,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T07:05:00",
+                                "arrival": "2023-02-28T09:30:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -32680,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+                                            "name": "Air Europa"
+                                        }
+                                    ],
+                                    "operationType": "fully_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302280705-2302280930--32680",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T07:05:00",
+                                        "arrival": "2023-02-28T09:30:00",
+                                        "durationInMinutes": 145,
+                                        "flightNumber": "1043",
+                                        "marketingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -32680,
+                                            "name": "Air Europa",
+                                            "alternateId": "UX",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "tags": [
+                            "second_cheapest",
+                            "shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 0.930087,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 44.77,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302280705--32680-0-11493-2302280930?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    },
+                    {
+                        "id": "13870-2302280950--31669-0-11493-2302281220",
+                        "price": {
+                            "raw": 43.83,
+                            "formatted": "44 €"
+                        },
+                        "legs": [
+                            {
+                                "id": "13870-2302280950--31669-0-11493-2302281220",
+                                "origin": {
+                                    "id": "MAD",
+                                    "name": "Madrid",
+                                    "displayCode": "MAD",
+                                    "city": "Madrid",
+                                    "isHighlighted": false
+                                },
+                                "destination": {
+                                    "id": "FCO",
+                                    "name": "Rome Fiumicino",
+                                    "displayCode": "FCO",
+                                    "city": "Rome",
+                                    "isHighlighted": false
+                                },
+                                "durationInMinutes": 150,
+                                "stopCount": 0,
+                                "isSmallestStops": false,
+                                "departure": "2023-02-28T09:50:00",
+                                "arrival": "2023-02-28T12:20:00",
+                                "timeDeltaInDays": 0,
+                                "carriers": {
+                                    "marketing": [
+                                        {
+                                            "id": -31669,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/WZ.png",
+                                            "name": "Wizz Air"
+                                        }
+                                    ],
+                                    "operating": [
+                                        {
+                                            "id": -30596,
+                                            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/I*.png",
+                                            "name": "Wizz Air Malta"
+                                        }
+                                    ],
+                                    "operationType": "not_operated"
+                                },
+                                "segments": [
+                                    {
+                                        "id": "13870-11493-2302280950-2302281220--31669",
+                                        "origin": {
+                                            "flightPlaceId": "MAD",
+                                            "parent": {
+                                                "flightPlaceId": "MADR",
+                                                "name": "Madrid",
+                                                "type": "City"
+                                            },
+                                            "name": "Madrid",
+                                            "type": "Airport"
+                                        },
+                                        "destination": {
+                                            "flightPlaceId": "FCO",
+                                            "parent": {
+                                                "flightPlaceId": "ROME",
+                                                "name": "Rome",
+                                                "type": "City"
+                                            },
+                                            "name": "Rome Fiumicino",
+                                            "type": "Airport"
+                                        },
+                                        "departure": "2023-02-28T09:50:00",
+                                        "arrival": "2023-02-28T12:20:00",
+                                        "durationInMinutes": 150,
+                                        "flightNumber": "8334",
+                                        "marketingCarrier": {
+                                            "id": -31669,
+                                            "name": "Wizz Air",
+                                            "alternateId": "WZ",
+                                            "allianceId": 0
+                                        },
+                                        "operatingCarrier": {
+                                            "id": -30596,
+                                            "name": "Wizz Air Malta",
+                                            "alternateId": "I*",
+                                            "allianceId": 0
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "isSelfTransfer": false,
+                        "isProtectedSelfTransfer": false,
+                        "farePolicy": {
+                            "isChangeAllowed": false,
+                            "isPartiallyChangeable": false,
+                            "isCancellationAllowed": false,
+                            "isPartiallyRefundable": false
+                        },
+                        "eco": {
+                            "ecoContenderDelta": 20.129894
+                        },
+                        "tags": [
+                            "cheapest",
+                            "second_shortest"
+                        ],
+                        "isMashUp": false,
+                        "hasFlexibleOptions": false,
+                        "score": 0.918275,
+                        "pricingOptions": [
+                            {
+                                "agentIds": [
+                                    "ctuk"
+                                ],
+                                "amount": 43.83,
+                                "bookingProposition": "PBOOK"
+                            }
+                        ],
+                        "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302280950--31669-0-11493-2302281220?adults=1&adultsv2=1&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&originentityid=27544850&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=0"
+                    }
+                ]
+            }
+        ]
+    }
+}
