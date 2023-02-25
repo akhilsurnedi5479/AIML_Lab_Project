@@ -1,0 +1,108 @@
+{
+  "id": "13870-2302280705--32680-0-11493-2302280930",
+  "price": {
+    "raw": 44.77,
+    "formatted": "45 €"
+  },
+  "legs": [
+    {
+      "id": "13870-2302280705--32680-0-11493-2302280930",
+      "origin": {
+        "id": "MAD",
+        "name": "Madrid",
+        "displayCode": "MAD",
+        "city": "Madrid",
+        "isHighlighted": false
+      },
+      "destination": {
+        "id": "FCO",
+        "name": "Rome Fiumicino",
+        "displayCode": "FCO",
+        "city": "Rome",
+        "isHighlighted": false
+      },
+      "durationInMinutes": 145,
+      "stopCount": 0,
+      "isSmallestStops": false,
+      "departure": "2023-02-28T07:05:00",
+      "arrival": "2023-02-28T09:30:00",
+      "timeDeltaInDays": 0,
+      "carriers": {
+        "marketing": [
+          {
+            "id": -32680,
+            "logoUrl": "https://logos.skyscnr.com/images/airlines/favicon/UX.png",
+            "name": "Air Europa"
+          }
+        ],
+        "operationType": "fully_operated"
+      },
+      "segments": [
+        {
+          "id": "13870-11493-2302280705-2302280930--32680",
+          "origin": {
+            "flightPlaceId": "MAD",
+            "parent": {
+              "flightPlaceId": "MADR",
+              "name": "Madrid",
+              "type": "City"
+            },
+            "name": "Madrid",
+            "type": "Airport"
+          },
+          "destination": {
+            "flightPlaceId": "FCO",
+            "parent": {
+              "flightPlaceId": "ROME",
+              "name": "Rome",
+              "type": "City"
+            },
+            "name": "Rome Fiumicino",
+            "type": "Airport"
+          },
+          "departure": "2023-02-28T07:05:00",
+          "arrival": "2023-02-28T09:30:00",
+          "durationInMinutes": 145,
+          "flightNumber": "1043",
+          "marketingCarrier": {
+            "id": -32680,
+            "name": "Air Europa",
+            "alternateId": "UX",
+            "allianceId": 0
+          },
+          "operatingCarrier": {
+            "id": -32680,
+            "name": "Air Europa",
+            "alternateId": "UX",
+            "allianceId": 0
+          }
+        }
+      ]
+    }
+  ],
+  "isSelfTransfer": false,
+  "isProtectedSelfTransfer": false,
+  "farePolicy": {
+    "isChangeAllowed": false,
+    "isPartiallyChangeable": false,
+    "isCancellationAllowed": false,
+    "isPartiallyRefundable": false
+  },
+  "tags": [
+    "second_cheapest",
+    "shortest"
+  ],
+  "isMashUp": false,
+  "hasFlexibleOptions": false,
+  "score": 0.930087,
+  "pricingOptions": [
+    {
+      "agentIds": [
+        "ctuk"
+      ],
+      "amount": 44.77,
+      "bookingProposition": "PBOOK"
+    }
+  ],
+  "deeplink": "https://www.skyscanner.net/transport/flights/mad/fco/230228/config/13870-2302280705--32680-0-11493-2302280930?adults\u003d1\u0026adultsv2\u003d1\u0026cabinclass\u003deconomy\u0026children\u003d0\u0026childrenv2\u003d\u0026destinationentityid\u003d27539793\u0026originentityid\u003d27544850\u0026inboundaltsenabled\u003dfalse\u0026infants\u003d0\u0026outboundaltsenabled\u003dfalse\u0026preferdirects\u003dfalse\u0026ref\u003dhome\u0026rtn\u003d0"
+}

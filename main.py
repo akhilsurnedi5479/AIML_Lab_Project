@@ -1,10 +1,16 @@
 import re
-
-
+#from flask import Flask,render_template
+#akfrom flask_socketio import SocketIO,send
 class Main:
     # from chatterbot import ChatBot
 
     # chatbot = ChatBot("Chatpot")
+
+
+    def get_name_and_email(self):
+        return "Please enter your name and email"
+
+
 
     def main(self):
         exit_conditions = (":q", "quit", "exit")
@@ -16,7 +22,6 @@ class Main:
         while (not is_email_valid):
             email = input("      Email : ").strip()
             is_email_valid = self.email_check(email)
-
 
         print(f"Bot:", "Hi ", name)
         print(f"Bot:", "How can I help you today?")
