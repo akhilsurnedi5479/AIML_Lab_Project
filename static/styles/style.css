@@ -43,15 +43,18 @@ body {
 
 .msger-header {
   /* display: flex; */
+
   font-size: medium;
   justify-content: space-between;
   padding: 10px;
   text-align: center;
   border-bottom: var(--border);
-  background: #eee;
+  background: #4c7b6e;
   color: #666;
 }
-
+.msger-header-title{
+    /*background-color: #FBD603;*/
+}
 .msger-chat {
   flex: 1;
   overflow-y: auto;
