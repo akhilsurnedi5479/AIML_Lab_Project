@@ -22,7 +22,8 @@ def chatbot_response(userText):
     #pass
 
 
-@app.route("/get")
+
+@app.route("/get/")
 def get_bot_response():
     #userText -> bot need to understand this
     userText = request.args.get('msg')

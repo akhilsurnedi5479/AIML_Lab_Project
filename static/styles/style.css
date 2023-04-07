@@ -53,7 +53,7 @@ body {
   color: #666;
 }
 .msger-header-title{
-    /*background-color: #FBD603;*/
+    color: #000;
 }
 .msger-chat {
   flex: 1;
@@ -151,7 +151,7 @@ body {
 
 .msger-chat {
   background-color: #fcfcfe;
-  background-image: url("https://cdn-icons-png.flaticon.com/512/9388/9388007.png");
+  background-image: url("https://cdn-icons-png.flaticon.com/512/6032/6032464.png");
   background-position: center;
   background-repeat: no-repeat;
 

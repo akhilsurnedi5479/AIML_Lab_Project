@@ -16,22 +16,21 @@
   <section class="msger">
     <header class="msger-header">
       <div class="msger-header-title">
-        <i class="fas fa-bug"></i> Flibot <i class="fas fa-bug"></i>
+        <i></i> Flight bot <i></i>
       </div>
     </header>
 
     <main class="msger-chat">
       <div class="msg left-msg">
-        <div class="msg-img" style="background-image: bg.jpg"></div>
-
+        <div class="msg-img" style="background-image: url(https://cdn-icons-png.flaticon.com/512/4712/4712139.png)"></div>
         <div class="msg-bubble">
           <div class="msg-info">
-            <div class="msg-info-name">Chatbot</div>
+            <div class="msg-info-name">Bot</div>
             <div class="msg-info-time"></div>
           </div>
 
           <div class="msg-text">
-            Hi, welcome to ChatBot! Go ahead and send me a message. 😄
+            Hi, Welcome to Travel Bot! Go ahead and send me a message.
           </div>
         </div>
       </div>
@@ -53,9 +52,9 @@
 
 
     // Icons made by Freepik from www.flaticon.com
-    const BOT_IMG = "https://image.flaticon.com/icons/svg/327/327779.svg";
-    const PERSON_IMG = "https://image.flaticon.com/icons/svg/145/145867.svg";
-    const BOT_NAME = "    ChatBot";
+    const BOT_IMG = "https://cdn-icons-png.flaticon.com/512/4712/4712139.png";
+    const PERSON_IMG = "https://cdn-icons-png.flaticon.com/512/9499/9499550.png";
+    const BOT_NAME = "Flight Bot";
     const PERSON_NAME = "You";
 
     msgerForm.addEventListener("submit", event => {
@@ -94,6 +93,7 @@
 
       // Bot Response
       $.get("/get", { msg: rawText }).done(function (data) {
+        console.log('name',name);
         console.log(rawText);
         console.log(data);
         const msgText = data;
@@ -104,6 +104,7 @@
     }
 
 
+    
     // Utils
     function get(selector, root = document) {
       return root.querySelector(selector);
